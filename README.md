@@ -1,6 +1,5 @@
 # Advinha o Dia da Semana em Python
 
-
 ## O que é isso?
 Este é um exercício que, com base na data informada pelo usuário (XX-XX-XXXX), o programa calcula qual seu respectivo dia da semana.
 
